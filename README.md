@@ -17,7 +17,7 @@
 - предложена исправленная версия
 - сформированы вопросы к заказчику
 
-👉 [Перейти к заданию](https://github.com/AlexanderFilonov866/ca-analyst-test/blob/main/1_requirements_analysis.md)
+[Перейти к заданию](https://github.com/AlexanderFilonov866/ca-analyst-test/blob/main/1_requirements_analysis.md)
 
 ---
 
@@ -25,7 +25,7 @@
 
 Спроектирован REST API для получения списка партнерских магазинов.
 
-👉 [Перейти к заданию](./2_api_design.md)
+[Перейти к заданию](https://github.com/AlexanderFilonov866/ca-analyst-test/blob/main/2_api_design.md)
 
 ---
 
@@ -33,16 +33,13 @@
 
 Предложена архитектура отправки push-уведомлений в микросервисной системе.
 
-👉 [Перейти к заданию](./3_architecture.md)
+[Перейти к заданию](./3_architecture.md)
 
 ---
 
-## 📎 Диаграмма
+## Диаграмма
 
 ![Architecture](./diagram.png)
 
 ---
 
-## 🛠 Комментарий
-
-Готов ответить на любые вопросы по решению и обсудить альтернативные варианты реализации.
