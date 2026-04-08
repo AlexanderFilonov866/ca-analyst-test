@@ -17,7 +17,7 @@
 - предложена исправленная версия
 - сформированы вопросы к заказчику
 
-👉 [Перейти к заданию](./1_requirements_analysis.md)
+👉 [Перейти к заданию](https://github.com/AlexanderFilonov866/ca-analyst-test/blob/main/1_requirements_analysis.md)
 
 ---
 
